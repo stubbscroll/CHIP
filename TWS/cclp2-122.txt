@@ -1,0 +1,107 @@
+# cclp2 level 122 lynx
+level 122 WSPI
+starttime 999
+lynx
+route
+
+# block 1 in middle area
+4L U 3L 6D 2L 4U 4D 2L D 4L 2U R 2U 6L 2D RULU 5R 2U 4R 4D L 2D RULU 2R
+
+# block 2 in middle area
+2L 2D 3L 2U R 3U 3D 3L 2D 2L 3U LU 5R 2U 3R UR 5D L 2D RULUR
+
+# block 3 in middle area
+2D 5L R 2U R 3U D 5L 2D 2R UD 2L 2U 4R 2U 3R UR 5D LD 3R 2U
+
+# puhs block up to prepare middle room for pass-through
+2R 4U 3R 8D 5L D 4L U
+
+# get block 1 from left room
+D 2R 3D 14L 4U 2L 3U L 2U 6R 8D 8U 6L 2D R 3D 3R U 2L R 5D 3L 2U 2R 2L 2D 17R
+
+# block 1 middle stuff
+3U 3R 3D 2L 2R 3U 3L 5D L 2D R 6U 2D 3R 3U 3L 3D
+
+# get block 2 from left room
+11L 9U 6L 2D R 2D 2R 4D U 3L 2D 17R
+
+# block 2 middle stuff + block 2 in middle area
+3U 3R 3D 2L 2R 4U 4R 8U 3L 4D 2L 2D 2L D 4L 2U R 3U D 5L 4D RDR 4U D 2L 2U 4R
+2U 3R UR 5D L 2D L 2D 4R 2L 5D L 2D R 6U 2D 3R 3U 3L 3D
+
+# get block 3 from left room
+14L 5U 3L D 2R UR 4D U 3L 2D 17R
+
+# block 3 middle stuff + block 3 in middle area
+3U 3R 3D 2L 2R 3U LU 4R D 6R 4U 5L 3D LD 5R 4L 4U 5R 8D 8U 5L 5U 3L 4D 2L 2D 2L
+DL {LU} 2L 2U L 2R 3U LU 3R UR 5D 4U 3L 4D L 2D 2R 2D 4R 2L 5D L 2D R 6U 2D 3R
+3U 3L 3D
+
+# get block 4 from left room
+11L 9U 5L 4D LD 2R UR 4D U 3L 2D 17R
+
+# block 4 middle stuff
+3U 2R U 4R 3L 4D 2L 4R 2D 6R 2D 2R 2U 7L 6R 9U 5L 3D LD 5R 4L 4U 5R 8D 8U 5L 5U
+3L 4D 2L 2D 2L D 2L 2D 4R 2L 5D L 2D R 6U 2D 3R 3U 3L 3D
+
+# get block 5 from left room
+11L 9U 3L 2D L 2R ULU 2L 4D LD 2R UR 4D U 3L 2D 17R
+
+# block 5 middle stuff + block in lower right
+3U 2R U 4R 3L 4D 2L 4R 11D 9U 6R 2D R 10D 9L 2U 7R U 2R 7U R 2U 7L 6R 9U 5L 3D
+LD 5R 4L 4U 5R 8D 8U 5L 5U 3L 4D 2L 2D 2L D 2L 2D 4R 2L 5D L 2D R 6U 2D 3R 3U
+3L 3D
+
+# get block 6 from left room
+11L 9U 3L 2D 2L 2U RUR 2D RD 2L 2D LDRUR 4D U 3L 2D 17R
+
+# block 6 middle stuff + block in lower right
+3U 2R U 4R 3L 4D 2L 4R 11D 9U 6R 2D R 7D L 2D RD 9L 2U 7R U 2R 7U R 2U 7L 6R 9U
+5L 3D LD 5R 4L 4U 5R 8D 8U 5L 5U 3L 4D 2L 2D 2L D 2L 2D 4R 2L 5D L 2D R 6U 2D
+3R 3U 3L 3D
+
+# get block 7 from left room
+11L 9U 5L 4D LD 2R UR 4D U 3L 2D 17R
+
+# block 7 middle stuff + block in lower right
+3U 2R U 4R 3L 4D 2L 4R 11D 9U 6R 2D R 7D LD 4L 2D 4L 2U 8R DRURUL
+
+# next block in lower right
+7U R 2U 7L 6R 9U 5L 3D LD 5R 4L 4U 5R 8D 8U 5L 5U 3L 4D 2L 2D 2L D 2L 2D 4R 2L
+5D L 2D R 6U 2D 3R 3U  LU 4R 3L 4D 2R 11D 9U 6R 2D R 7D 2L D 3L 2D 4L 2U 7R U
+2R
+
+# go to middle area
+7U R 2U 7L 6R 9U 5L 3D LD 5R 4L 4U 5R 8D 8U 5L 5U 3L 4D 2L 2D 2L D
+
+# block 4 in middle area
+6L 3U D 2L
+2U 4R 4L 4D RDR 4U D 3R 3U LU 3R UR 5D
+
+# block 5 in middle area
+4U 3L 4D 5L 2U 4R 2L 2D 3R 3U LU 3R UR 4D
+
+# next block in lower right
+3U 3L 4D L 2D 2R 2D 4R 2L 3D 3R 3U LU 4R 3L 4D 2R 11D 9U 6R 2D R 9D LU 4L 2D 4L
+2U 7R URD 2R UL
+
+# finish off middle area
+7U R 2U 7L 6R 9U 5L 5U 3L 6D 2L 2R 4U 2L 3D U 2R 4U 2L 4D
+
+# next block in lower right
+4U 5R 8D LD 5R 4L 4U 5R 8D 4U 6L U 3L 4D 2R 11D 9U 6R 2D R 7D LD 4L 2D 4L 2U 8R
+UR
+
+# next block in lower right
+7U R 2U 7L 6R 5U 6L U 3L 4D 2R 11D 9U 6R 2D R 7D LD 4L 2D 4L 2U 2R 2L 2D 4R 2U
+4R U 2R DL 2D 5L 2U 4R 4L 2D 5R 2U RUL
+
+# next block in lower right
+7U L 2U 6L 10D 6R 4L 2D 5R 2U
+
+# finish off lower right
+9L 2D 8R 8L 2U 2L 2D 9R
+
+# go to exit
+3L 2U 2L 12U 5L 5D 27. L
+

@@ -1,0 +1,24 @@
+# level 35 571.10 seconds
+level 35 VDTM
+starttime 600
+lynx
+route
+
+# start
+3D 12R DR 6U RU
+
+# push up first column
+5L DL 11U RU 2L
+20. 4L 8. L 1. ULUD 2R UD 2R U 9. D 8. D
+2L 8. L
+
+# push further
+11. 2L RU
+5. D L 3. L ULUDLR D. 8. D LR
+2D LR
+2D U 2R D 2L {LD} R
+0. 2D LR
+
+# get last chip and try to exit
+2R
+D 13. D 3L R U 1. U L 13. R 2D 5L

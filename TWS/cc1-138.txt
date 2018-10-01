@@ -1,0 +1,49 @@
+# cc1 level 138 224.15 seconds
+# direct transfer of ms bold solution
+
+level 138 LUJT
+starttime 300
+lynx
+route
+# start
+3R 2D ,U,D,U,D,
+
+# in block room
+2D 2R U LDL 2U 2D 4R U 3L DL 2U D 3R U 2L DLU 2R U 2L ,
+
+# pushed block out
+D 2L U 3R ,DLU,D,U,D,
+
+# next block
+2D 6R ULULU 3L L,D 2L U 2R R,ULD,U,D,
+
+# next block
+D 3R URU 4L ,D 2L U 3R ,ULD,U,D,
+
+# next block
+6R U 6L , D 2L U 3R ,DLU,D,
+
+# next block
+2D 4R 2U RU 5L ,D 2L U 3R ,ULD,U,
+
+# next block
+URDRD 2L ,D 2L U 3R , DLU,
+
+# next block
+3U R 3D RD 2L , D 2L U 3R ,DLU,
+
+# next block
+2U 2R DRD 2L ULD
+4R D 3L 5R U 3L 2R U 3L D 2R 2U 3L 2D 3U L 3D 6R 2U 5L UL 4D ,
+
+# mop up
+LDRDR 2U LU,
+LURUR 2D LD,
+LDRDR 2U LU,
+2L D 2R ,
+2U 2L DRURDLD,
+LD 2R DR 2U 2L U,
+LU 2R UR 2D 2L D,
+
+# exit
+LUR,
